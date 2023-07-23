@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eros Lico</h1>
 <h3 align="center">A passionate Frontend Developer from Argentina</h3>
-
+<p align="left">
+</p>
 
 - 🔭 I’m currently working on **BB Media**
 
@@ -8,7 +9,6 @@
 
 - 📫 How to reach me **lico.eros@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
