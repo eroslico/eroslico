@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **lico.eros@gmail.com**
 <p align="center">
 </p>
 
