@@ -1,4 +1,6 @@
 
+
+
 <!-- ## 👋 &nbsp;Hey there! I'm Eros Lico -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -6,9 +8,6 @@
 👨‍💻 &nbsp;I am Currently Working at BB Media in Argentina as Software Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
